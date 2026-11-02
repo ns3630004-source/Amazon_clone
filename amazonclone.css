@@ -1,0 +1,127 @@
+#navigationbar{
+
+    background-color: black;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+/* navigation baar ke andar ka content yha hain */
+
+#Amazon{
+
+    color: yellow;
+    font-size: 30px;
+    padding-right:300px;
+    text-decoration: none;
+}
+
+#Account{
+
+    color: white;
+    font-size: 30px;
+    padding-right:300px;
+    text-decoration: none;
+}
+
+
+#Contact{
+
+    color: white;
+    font-size: 30px;
+    padding-right:540px;
+    text-decoration: none;
+}
+
+
+#textbox{
+
+    font-size: 25px;
+    padding-right:1px;
+    text-decoration: none;
+}
+
+#search{
+
+    font-size: 20px;
+    background-color: wheat;
+}
+
+/* yha se main ke beech mein box create kiya hoon maine */
+
+#contentbox{
+
+    height: 740px;
+}
+
+#content1{
+
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 60px;
+    font-size: 50px;
+}
+
+#content2{
+
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 100px;
+    font-size: 50px;
+}
+
+#content3{
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 100px;
+    font-size: 50px;
+
+}
+
+
+#content4{
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 60px;
+    font-size: 50px;
+
+}
+
+
+#content5{
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 50px;
+
+}
+
+/* footer ka yha se uska background color and size  */
+
+footer{
+
+    background-color: black;
+   
+}
+
+p{
+     color: white;
+    text-align: center;
+}
+
+
+
